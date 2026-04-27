@@ -1,18 +1,24 @@
 <h1 align="center">Hi 👋, I'm Bicky Yadav</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Backend Developer</h3>
+<h3 align="center">🚀 Software Developer | ☁️ DevOps Engineer | 📊 Data Science Enthusiast</h3>
 
 <p align="center">
-  💡 Building scalable systems | ⚡ Automating everything | 🔥 Learning every day
+  💡 Building scalable systems | ⚡ Automating workflows | 📈 Turning data into insights
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bickyyadav&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **DevOps + Cloud Projects**
-- 🌱 Learning **Kubernetes, CI/CD, and System Design**
-- 💬 Ask me about **Docker, Linux, Backend, Cloud**
-- ⚡ Fun fact: I love turning complex systems into simple solutions
+- 💻 Software Developer with focus on **Backend Systems**
+- ☁️ Passionate about **Cloud & DevOps (CI/CD, Kubernetes, Docker)**
+- 📊 Exploring **Data Science & Machine Learning**
+- 🔭 Currently building **scalable and production-ready applications**
+- 🌱 Learning **System Design + Advanced Cloud Architecture**
+- ⚡ I love combining **code + cloud + data** to solve real problems
 
 ---
 
@@ -29,69 +35,111 @@
 
 ---
 
-## ⚒️ Tech Stack
+# ⚒️ Tech Stack
 
-### 🚀 DevOps & Cloud
+## 🚀 Software Development
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp,azure,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs" />
 </p>
 
-### 💻 Programming
+## ☁️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,go" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp,azure,git,githubactions" />
 </p>
 
-### 🗄️ Databases
+## 📊 Data Science & ML
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+## 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-🔹 **DevOps CI/CD Pipeline**
-- Automated deployment using Docker + GitHub Actions  
-- Reduced manual deployment time by 80%
-
-🔹 **Cloud Deployment System**
-- Deployed scalable apps on AWS/GCP  
-- Implemented load balancing & monitoring
-
-🔹 **Backend API System**
-- Built secure REST APIs using Node.js  
-- Authentication + database integration
+### 🔹 DevOps CI/CD Pipeline
+- Automated deployments using **Docker + GitHub Actions**
+- Reduced deployment time significantly
+- Implemented build, test, and deploy workflow
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 Scalable Cloud Deployment
+- Deployed apps on **AWS / GCP**
+- Configured **load balancing & monitoring**
+- Built production-ready infrastructure
+
+---
+
+### 🔹 Backend API System
+- Developed secure REST APIs using **Node.js & Express**
+- Implemented authentication (JWT, Clerk)
+- Integrated databases with optimized queries
+
+---
+
+### 🔹 Data Science Project
+- Performed data analysis using **Pandas & NumPy**
+- Built ML models using **Scikit-learn**
+- Extracted insights and visualized results
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bickyyadav&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=bickyyadav&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bickyyadav&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bickyyadav&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+# 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=bickyyadav&theme=radical" />
+<img src="https://streak-stats.demolab.com/?user=bickyyadav&theme=tokyonight" />
 </p>
 
 ---
 
-## 👀 Profile Views
+# 🧩 What I Do
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=bickyyadav&label=Profile%20views&color=blue&style=flat" />
-</p>
+✔ Build scalable backend systems  
+✔ Automate deployments (CI/CD pipelines)  
+✔ Work with cloud infrastructure  
+✔ Analyze and process data  
+✔ Solve real-world engineering problems  
 
 ---
 
-## 💡 Quote
+# 💡 Current Focus
 
-> “First, solve the problem. Then, automate it.” ⚡
+🚀 DevOps Engineering (Kubernetes + CI/CD)  
+📊 Data Science (ML models + analytics)  
+⚡ System Design & scalable architecture  
+
+---
+
+# 🏆 Achievements
+
+- 🚀 Built multiple full-stack & DevOps projects  
+- 📈 Improving problem-solving & system design skills  
+- 💡 Actively learning cutting-edge technologies  
+
+---
+
+# ⚡ Fun Fact
+
+> I don't just write code — I build systems that scale 🚀
+
+---
